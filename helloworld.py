@@ -1,2 +1,5 @@
-print('Hello, world!')
-print('Today is awesome.')
+def hello():
+	print('Hello.')
+	print('Is it me you're looking for?')
+
+hello()
